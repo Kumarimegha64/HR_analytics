@@ -1,1 +1,1 @@
-In this repository I will be analyzing a Company employee datset that I found on Kaggle. First I did import data in power bI and transform data, used DAX formula in required areas and then created a HR analytics report on Power BI.
+In this repository I will be analyzing a Company employee datset that I found on Kaggle. First I import data in power bI from kaggle then transform it, used DAX formula in required areas and then created a HR analytics report on Power BI.
